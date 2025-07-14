@@ -39,3 +39,17 @@ bash
 복사
 편집
 pip install opencv-python numpy pillow
+
+import os
+
+# 📁 복사된 이미지가 있는 폴더
+examples_folder = "examples"
+
+# 📷 이미지 파일만 필터링
+image_files = [f for f in os.listdir(examples_folder) if f.lower().endswith(('.jpg', '.jpeg', '.png'))]
+
+# 🖼️ 마크다운 출력
+print("\n## 예시 전처리 이미지\n")
+for filename in image_files:
+    print(f"![]({examples_folder}/{filename})")
+
