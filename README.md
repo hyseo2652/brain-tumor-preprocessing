@@ -40,6 +40,11 @@ bash
 편집
 pip install opencv-python numpy pillow
 
+
+git add examples/
+git commit -m "Add example images"
+git push
+
 import os
 
 # 📁 복사된 이미지가 있는 폴더
