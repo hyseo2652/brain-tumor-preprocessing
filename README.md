@@ -36,8 +36,7 @@ Pillow (PIL)
 설치:
 
 bash
-복사
-편집
+
 pip install opencv-python numpy pillow
 
 
