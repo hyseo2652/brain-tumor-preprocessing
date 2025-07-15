@@ -22,10 +22,8 @@
 
 | 예시 1 | 예시 2 | 예시 3 |
 |--------|--------|--------|
-| ![]!(![rabel1](https://github.com/user-attachments/assets/11e68c81-3e40-45be-90ac-b59f0d136389)
-) | ![](![rabel2](https://github.com/user-attachments/assets/ae02f42e-1e21-448b-aef1-e67af32a2a62)
-) | ![](![rabel3](https://github.com/user-attachments/assets/def1510e-6541-4c6f-9196-c35d556a6c96)
-) |
+| <img src="https://github.com/user-attachments/assets/11e68c81-3e40-45be-90ac-b59f0d136389" width="250"/> | <img src="https://github.com/user-attachments/assets/ae02f42e-1e21-448b-aef1-e67af32a2a62" width="250"/> | <img src="https://github.com/user-attachments/assets/def1510e-6541-4c6f-9196-c35d556a6c96" width="250"/> |
+
 
 
 
