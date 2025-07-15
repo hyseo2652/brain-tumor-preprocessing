@@ -20,3 +20,14 @@
 
 # Download script/URL (optional)
 # download: https://github.com/ultralytics/assets/releases/download/v0.0.0/brain-tumor.zip
+
+# 뇌종양 이미지데이터 다운로드
+
+#pip install ultralytics
+# from ultralytics import YOLO
+
+# Load a model
+# model = YOLO("yolo11n.pt")  # load a pretrained model (recommended for training)
+
+# Train the model
+# results = model.train(data="brain-tumor.yaml", epochs=100, imgsz=640)
